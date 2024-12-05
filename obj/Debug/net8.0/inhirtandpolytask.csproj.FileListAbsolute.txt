@@ -1,0 +1,14 @@
+F:\SINKTANK\inhirtandpolytask\bin\Debug\net8.0\inhirtandpolytask.exe
+F:\SINKTANK\inhirtandpolytask\bin\Debug\net8.0\inhirtandpolytask.deps.json
+F:\SINKTANK\inhirtandpolytask\bin\Debug\net8.0\inhirtandpolytask.runtimeconfig.json
+F:\SINKTANK\inhirtandpolytask\bin\Debug\net8.0\inhirtandpolytask.dll
+F:\SINKTANK\inhirtandpolytask\bin\Debug\net8.0\inhirtandpolytask.pdb
+F:\SINKTANK\inhirtandpolytask\obj\Debug\net8.0\inhirtandpolytask.GeneratedMSBuildEditorConfig.editorconfig
+F:\SINKTANK\inhirtandpolytask\obj\Debug\net8.0\inhirtandpolytask.AssemblyInfoInputs.cache
+F:\SINKTANK\inhirtandpolytask\obj\Debug\net8.0\inhirtandpolytask.AssemblyInfo.cs
+F:\SINKTANK\inhirtandpolytask\obj\Debug\net8.0\inhirtandpolytask.csproj.CoreCompileInputs.cache
+F:\SINKTANK\inhirtandpolytask\obj\Debug\net8.0\inhirtandpolytask.dll
+F:\SINKTANK\inhirtandpolytask\obj\Debug\net8.0\refint\inhirtandpolytask.dll
+F:\SINKTANK\inhirtandpolytask\obj\Debug\net8.0\inhirtandpolytask.pdb
+F:\SINKTANK\inhirtandpolytask\obj\Debug\net8.0\inhirtandpolytask.genruntimeconfig.cache
+F:\SINKTANK\inhirtandpolytask\obj\Debug\net8.0\ref\inhirtandpolytask.dll
